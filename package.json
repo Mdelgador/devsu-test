@@ -1,0 +1,29 @@
+{
+  "name": "devsu-test",
+  "version": "1.0.0",
+  "description": "automation test for devsu",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mdelgador/devsu-test.git"
+  },
+  "keywords": [
+    "test",
+    "cypress",
+    "automation",
+    "qa",
+    "testing"
+  ],
+  "author": "Miguel Delgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mdelgador/devsu-test/issues"
+  },
+  "homepage": "https://github.com/Mdelgador/devsu-test#readme",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  }
+}

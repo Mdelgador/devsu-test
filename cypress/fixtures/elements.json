@@ -1,0 +1,11 @@
+{
+	"name": "Using fixtures to represent data",
+	"product1": "Nexus 6",
+	"product2": "MacBook Pro",
+	"cname": "Miguel",
+	"country": "Colombia",
+	"city": "Bogota",
+	"cnumber": "424242424242",
+	"month": "1",
+	"year": "2024"
+}
