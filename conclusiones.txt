@@ -1,0 +1,11 @@
+Al ejecutar las pruebas sobre Demoblaze se pudieron detectar varios comportamientos erroneos
+que deberian ser mejorados y solucionados:
+
+e2e:
+
+- se recomienda la implementacion de variables de testing para agilizar el mantenimiento de las pruebas automatizadas
+
+API:
+
+- Los endpoints https://api.demoblaze.com/signup y https://api.demoblaze.com/login solo arrojan status 200
+ con todas las respuestas tanto correctas como incorrectas demostrando posibles debilidades en el backend
